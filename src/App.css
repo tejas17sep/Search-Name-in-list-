@@ -1,0 +1,33 @@
+body{
+    background: #1aa3e8;
+}
+input{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 40px;
+    width: 280px;
+    font-size: 15px;
+    font-style: normal;
+    color: black;
+}
+.app{
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+.user{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 40px;
+    padding: 10px;
+}
+.data{
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
